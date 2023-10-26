@@ -19,7 +19,13 @@ Here are some ideas to get you started:
 ![alu0100825145 stats](https://github-readme-stats.vercel.app/api?username=alu0100825145&show_icons=true&locale=en)
 
 
-**Calendario y Resultados Seattle Seahawks 23/24** ![Logotipo de los Seahawks](../imagenes/Seahawks logo.png)
+ ![Logotipo de los Seahawks](https://github.com/alu0100825145/imagenes/blob/ab633110d6ed712a6304799467798fe96db9620b/Seahawks%20logo.png)
+
+
+
+
+**Calendario y Resultados Seattle Seahawks 23/24** 
+
 | Local  | Visitante | Resultado| 
 | ------------ | ------------ | ------------ |
 | Seahawks | Rams | 13-30 |

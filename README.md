@@ -17,3 +17,14 @@ Here are some ideas to get you started:
 
 
 ![alu0100825145 stats](https://github-readme-stats.vercel.app/api?username=alu0100825145&show_icons=true&locale=en)
+
+
+**Calendario y Resultados Seattle Seahawks 23/24**
+| Local  | Visitante | Resultado| 
+| ------------ | ------------ |
+|Seahawks|Rams|13-30|
+|Lions|Seahawks|31-37|
+|Seahawks|Panthers|37-27|
+|Giants|Seahawks|3-24|
+|Bengals|Seahawks|17-13|
+|Seahawks|Cardinals|20-10|

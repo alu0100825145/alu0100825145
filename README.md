@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 
 
-**Calendario y Resultados Seattle Seahawks 23/24** 
 
 **Calendario y Resultados Seattle Seahawks 23/24** 
 

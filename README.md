@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 | 5 | **Bengals** | Seahawks | 17-13 |
 | 6 | **Seahawks** | Cardinals | 20-10 |
 | 7 | **Seahawks** | Browns | 24-20 |
-| 8 | Ravens | Seahawks |  |
+| 8 | **Ravens** | Seahawks | 37-3 |
 | 9 | Seahawks | Commanders |  |
 | 10 | Rams | Seahawks |  |
 | 11 | Seahawks | 49ers |  |
